@@ -25,7 +25,7 @@ struct HomeView: View {
                 .padding()
             }
             // MARK: - CENTER
-            Text("The time that leads to msaterry is dependednt on the intensity of our focus")
+            Text("The time that leads to mastery is dependednt on the intensity of our focus")
                 .font(.title3)
                 .fontWeight(.light)
                 .foregroundColor(.secondary)
